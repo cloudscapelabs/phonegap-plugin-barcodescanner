@@ -1,0 +1,8 @@
+.idea
+.github
+node_modules/*
+
+.editorconfig
+.gitignore
+.travis.yml
+*.iml
